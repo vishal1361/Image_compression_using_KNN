@@ -1,4 +1,4 @@
-"# Image Compression Using KNN" 
+# Image Compression Using KNN
 
 
 This Project compresses image using K-nearest neighbours algorithm.
